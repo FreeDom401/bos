@@ -1,7 +1,7 @@
 # bos
-BOS物流项目
-后台架构:EasyUI+SSH+WebService+Oracle+Apache Shiro
-前台架构:BootStrap+AngularJS+Jquery
+BOS物流项目<br>
+后台架构:EasyUI+SSH+WebService+Oracle+Apache Shiro<br>
+前台架构:BootStrap+AngularJS+Jquery<br>
 # 快速体验
 ## 准备数据
 1. 安装Oracle数据库
